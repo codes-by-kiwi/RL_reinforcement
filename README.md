@@ -55,8 +55,7 @@ TNandBuffer_rewards.csv
 ________________________________________________________________
 All the ipynb files were converted to py files and put in this folder.
 
-Please note that according to the environment the code is being run on whether it is Colab or Jupyter, 
-the error of the arguments of the Please note that according to the environment the code is being run on,
+Please note that according to the environment the code is being run on,
  whether it is Colab or Jupyter, the error related to the arguments of the next_state, immediate_reward, terminated,
  info = cartpole_env.step(action) function call may change from 4 to 5.
 
